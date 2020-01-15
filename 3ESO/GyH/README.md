@@ -12,7 +12,7 @@ CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls
 
 #### Mòduls / Modules
 
-- ![incompleto](https://img.shields.io/badge/incompleto-red.svg) Unidad 3 / Unitat 3 / Unit 3 ([u3/](https://github.com/albertonl/ies/blob/master/Geografía e Historia/u3/)): "La agricultura, la ganadería, la pesca y la silvicultura" (Formato / Format / Format: Markdown)
+- ![incompleto](https://img.shields.io/badge/incompleto-red.svg) Unidad 3 / Unitat 3 / Unit 3 ([u3](https://github.com/albertonl/ies/blob/master/GyH/u3/)): "La agricultura, la ganadería, la pesca y la silvicultura" (Formato / Format / Format: Markdown)
 
 ## Copyright
 
