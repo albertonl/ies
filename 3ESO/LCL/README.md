@@ -12,7 +12,9 @@ CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls
 
 #### Mòduls / Modules
 
-- ![completado](https://img.shields.io/badge/completado-brightgreen.svg) Héctor de Troya ([Hector](https://github.com/albertonl/ies/blob/master/3ESO/LCL/Hector/)): "Héctor de Troya: en la literatura y mitología" (Formato / Format / Format: Markdown, LaTeX, PDF).
+- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Héctor de Troya ([Hector](https://github.com/albertonl/ies/blob/master/3ESO/LCL/Hector/)): "Héctor de Troya: en la literatura y mitología" (Formato / Format / Format: Markdown, LaTeX, PDF).
+
+- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Exámenes ([tests](https://github.com/albertonl/ies/blob/master/3ESO/LCL/tests/)): preparación de exámenes y apuntes (Formato / Format / Format: Markdown).
 
 ## Copyright
 
