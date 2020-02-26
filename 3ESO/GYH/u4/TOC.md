@@ -10,6 +10,7 @@
 	- Definición
 	- Elementos
 	- Clasificación de las industrias
+	- Los tipos de industrias
 5. Las revoluciones industriales (1.ª y 2.ª; páginas 112-113):
 	- Características (1.ª y 2.ª revolución industrial)
 	- Fordismo
