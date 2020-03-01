@@ -16,7 +16,7 @@ CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls
 
 - ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Exámenes ([tests](https://github.com/albertonl/ies/blob/master/3ESO/LCL/tests/)): preparación de exámenes y apuntes (Formato / Format / Format: Markdown).
 
-- ![inacabado](https://img.shields.io/badge/inacabado-red.svg) Barroco ([barroco](https://github.com/albertonl/ies/blob/master/3ESO/LCL/barroco/)): literatura barroca (Formato / Format / Format: Markdown).
+- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Barroco ([barroco](https://github.com/albertonl/ies/blob/master/3ESO/LCL/barroco/)): literatura barroca (Formato / Format / Format: Markdown).
 
 ## Copyright
 
