@@ -2,11 +2,11 @@
 
 #### Llengua castellana i literatura / Spanish language and literature
 
-ENG: ![language spa](https://img.shields.io/badge/language-spa-orange.svg) ![modules 1](https://img.shields.io/badge/modules-1-brightgreen.svg) ![stable yes](https://img.shields.io/badge/stable-no-brightgreen.svg)
+ENG: ![language spa](https://img.shields.io/badge/language-spa-orange.svg) ![modules 3](https://img.shields.io/badge/modules-3-brightgreen.svg) ![stable yes](https://img.shields.io/badge/stable-yes-brightgreen.svg)
 
-SPA: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![módulos 1](https://img.shields.io/badge/m%C3%B3dulos-1-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
+SPA: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![módulos 3](https://img.shields.io/badge/m%C3%B3dulos-3-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
 
-CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls 1](https://img.shields.io/badge/m%C3%B2duls-1-brightgreen.svg) ![estable no](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
+CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls 3](https://img.shields.io/badge/m%C3%B2duls-3-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
 
 ## Módulos
 
