@@ -24,7 +24,7 @@ Per a més informació, faça click [ací](https://github.com/albertonl/ies/blob
 
 For more information, click [here](https://github.com/albertonl/ies/blob/master/COPYRIGHT).
 
-## 1. Francisco de Quevedo
+## 1. El conceptismo en Quevedo
 
 _Piedra soy en sufrir pena y cuidado_<br/>
 _y cera en el querer enternecido,_<br/>
@@ -65,11 +65,11 @@ Pozuelo Yvancos, J. "Aproximación a la poesía amorosa de Quevedo". Centro Virt
 
 Alonso Veloso, M. J. (2008). "La poesía de Quevedo no incluida en las ediciones de 1648 y 1670: una propuesta acerca de la ordenación y el contenido de la «Musa décima»", p. 19. Universidad de Vigo: https://minerva.usc.es/xmlui/bitstream/handle/10347/16219/2008PERINOLAALONSOVELOSOMUSADECIMAQUEVEDO.pdf?sequence=1&isAllowed=y
 
-De Toledo y Godoy, I. (1950). _Cancionero antequerano_
+De Toledo y Godoy, I. (1950). _Cancionero antequerano_. Instituto Cervantes.
 
 Varios autores (2005-2020). "Conceptismo". Wikipedia: https://es.wikipedia.org/wiki/Conceptismo
 
-## 2. Luis de Góngora
+## 2. El culteranismo en Góngora
 
 _Purpúreas rosas sobre Galatea_<br/>
 _la Alba entre lirios cándidos deshoja:_<br/>
