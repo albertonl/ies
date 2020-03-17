@@ -16,7 +16,7 @@ CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls
 
 - ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Unidad 4 / Unitat 4 / Unit 4 ([u4](https://github.com/albertonl/ies/blob/master/3ESO/GYH/u4/)): "La minería, la energía, la construcción y la industria" (Formato / Format / Format: Markdown).
 
-- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Redes sociales ([rrss](https://github.com/albertonl/ies/blob/master/3ESO/GYH/rrss/): "Uso de redes sociales: ventajas e inconvenientes" (Formato / Format / Format: LaTeX, PDF).
+- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Redes sociales ([rrss](https://github.com/albertonl/ies/blob/master/3ESO/GYH/rrss/)): "Uso de redes sociales: ventajas e inconvenientes" (Formato / Format / Format: LaTeX, PDF).
 
 ## Copyright
 
