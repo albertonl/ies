@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{1}
+\contentsline {section}{\numberline {2}Caracter\IeC {\'\i }sticas del teatro barroco en la obra}{1}
+\contentsline {subsection}{\numberline {2.1}La renovaci\IeC {\'o}n del teatro por Lope de Vega}{2}
+\contentsline {subsection}{\numberline {2.2}Los temas del teatro lopesco a partir del t\IeC {\'\i }tulo}{2}
+\contentsline {section}{\numberline {3}Relaci\IeC {\'o}n con el contexto hist\IeC {\'o}rico}{3}
