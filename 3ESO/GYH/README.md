@@ -2,11 +2,11 @@
 
 #### Geografia e Història / Geography and History
 
-ENG: ![language spa](https://img.shields.io/badge/language-spa-orange.svg) ![modules 2](https://img.shields.io/badge/modules-2-brightgreen.svg) ![stable no](https://img.shields.io/badge/stable-no-red.svg)
+ENG: ![language spa](https://img.shields.io/badge/language-spa-orange.svg) ![modules 2](https://img.shields.io/badge/modules-2-brightgreen.svg) ![stable yes](https://img.shields.io/badge/stable-yes-brightgreen.svg)
 
-SPA: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![módulos 2](https://img.shields.io/badge/m%C3%B3dulos-2-brightgreen.svg) ![estable no](https://img.shields.io/badge/estable-no-red.svg)
+SPA: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![módulos 3](https://img.shields.io/badge/m%C3%B3dulos-3-brightgreen.svg) ![estable sí](https://img.shields.io/badge/-s%C3%AD-brightgreen)
 
-CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls 2](https://img.shields.io/badge/m%C3%B2duls-2-brightgreen.svg) ![estable no](https://img.shields.io/badge/estable-no-red.svg)
+CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls 3](https://img.shields.io/badge/m%C3%B2duls-3-brightgreen.svg) ![estable sí](https://img.shields.io/badge/-s%C3%AD-brightgreen)
 
 ## Módulos
 
