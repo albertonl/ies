@@ -12,7 +12,7 @@ CAT: ![idioma cat](https://img.shields.io/badge/idioma-cat-orange.svg) ![mòduls
 
 #### Módulos / Modules
 
-- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Combinatòries, estadística [combinatories_estadistica](https://github.com/albertonl/ies/blob/master/3ESO/MAT/combinatories_estadistica/): "Binomi de Newton, combinatòries i estadística" (Format / Formato / Format): LaTeX, PDF).
+- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Combinatòries, estadística ([combinatories_estadistica](https://github.com/albertonl/ies/blob/master/3ESO/MAT/combinatories_estadistica/)): "Binomi de Newton, combinatòries i estadística" (Format / Formato / Format): LaTeX, PDF).
 
 ## Copyright
 
