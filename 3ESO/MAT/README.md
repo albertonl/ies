@@ -6,7 +6,7 @@ ENG: ![language cat](https://img.shields.io/badge/language-cat-orange.svg) ![mod
 
 SPA: ![idioma cat](https://img.shields.io/badge/idioma-cat-orange.svg) ![módulos 1](https://img.shields.io/badge/m%C3%B3dulos-1-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
 
-CAT: ![idioma cat](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls 1](https://img.shields.io/badge/m%C3%B2duls-1-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
+CAT: ![idioma cat](https://img.shields.io/badge/idioma-cat-orange.svg) ![mòduls 1](https://img.shields.io/badge/m%C3%B2duls-1-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
 
 ## Mòduls
 
