@@ -1,0 +1,79 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[catalan]{babel}
+\usepackage[utf8]{inputenc}
+
+\usepackage[right=2cm,left=3cm,top=4cm,bottom=2cm,headsep=0.5cm,footskip=0.5cm]{geometry}
+\usepackage{graphicx,subfigure}
+\usepackage{amsmath,amssymb}
+\usepackage{underscore}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{yhmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\textbf{Alberto Navalón Lillo}}
+\lhead{\textit{Binomi de Newton, combinatòries i estadística}}
+
+\begin{document}
+
+\section{Binomi de Newton}
+El programa comença amb una explicació del \textbf{binomi de Newton}, que es dóna amb la forma \((a+b)^n\). Aquest binomi, que consta de tres variables, té una solució estandaritzada per a qualsevol valor, sempre i quan \(n \in \mathbb{R}\):
+
+\[
+	(a+b)^n = \binom{n}{0}a^n b^0 + \binom{n}{1}a^{n-1} b^1 + \binom{n}{2}a^{n-2} b^2 + \dots + \binom{n}{n}a^{n-n} b^n
+\]
+
+De forma que podem simplificar la solució a:
+
+\[
+	(a+b)^n = \sum_{k = 0}^{n} \binom{n}{k}a^{n-k} b^k
+\]
+
+On el nombre combinatori \(\binom{n}{k} = \frac{n!}{k! (n-k)!}\), el qual també es pot trobar a l'enèsima fila del triangle de Pascal, amb índex \(k\).
+
+\section{Combinatòries}
+Dins del grup de les combinatòries, tenim tres subgrups. En primer lloc, les \textbf{variacions} són les diferents formes d'organitzar els elements d'un conjunt, agafant alguns d'ells, però no necessàriament tots, encara que és possible. A les variacions és important l'ordre dels elements, i segons es puguen repetir o no els elements del conjunt, així es calculen les possibilitats:\\
+\begin{itemize}
+	\item Sense repetició: \(V_{n}^{m} = \underbrace{n(n-1)(n-2)\cdot\dots}_{m\text{ vegades}} \Rightarrow V_{n}^{m} = \frac{n!}{(n-m)!}\)
+	\item Amb repetició: \(VR_{n}^{m} = n^m\)
+\end{itemize}
+
+Després, a les \textbf{combinacions}, es trien \(m\) valors d'un conjunt amb \(n\) valors, entre els quals no pot haver valors repetits. Posteriorment es posicionen sense que importe l'ordre. Aleshores, només hi ha una opció, la qual es resol de la mateixa manera que els nombres combinatoris:
+
+\[
+	C_{n}^{m} = \frac{n!}{m!(n-m)!}
+\]
+
+Finalment, entre les combinatòries trobem les \textbf{permutacions}, les quals es comporten de la mateixa forma que les variacions, amb l'única diferència de què a les permutacions s'ha de fer ús de tots els elements del conjunt. Es calculen així:
+\begin{itemize}
+	\item Sense repetició\footnote{\textit{n} representa la quantitat d'elements en el conjunt.}: \(P^n = n!\)
+	\item Amb repetició\footnote{\textit{a} es un conjunt que conté \textit{k} elements, els quals corresponen amb la freqüència d'aparició de cada element diferent dins del conjunt que s'està permutant.}: \(PR_{n}^{a} = \frac{n!}{\prod_{i=0}^{k} a_{i}!}\)
+\end{itemize}
+
+\section{Estadística}
+Si tenim un conjunt de la forma \(\{1,1,2,2,2,2,3,3,3,4,5\}\), podem crear una tabla com aquesta:
+\begin{center}
+	\begin{tabular}{ | >{\centering\arraybackslash}m{2cm} | >{\centering\arraybackslash}m{2cm} | >{\centering\arraybackslash}m{2cm} | >{\centering\arraybackslash}m{2cm} | >{\centering\arraybackslash}m{2cm} | >{\centering\arraybackslash}m{2cm} | }
+		\hline
+		\textbf{\(x_{i}\)} & \textbf{\(f_{i}\)} & \textbf{\(f_{r}\)} & \textbf{\(x_{i} f_{i}\)} & \textbf{\(x_{i}^{2} f_{i}\)} & \textbf{\(F_{i}\)} \\
+		\hline
+		1 & 2 & 2/11 & 2 & 2 & 2 \\
+		2 & 4 & 4/11 & 8 & 16 & 6 \\
+		3 & 3 & 3/11 & 9 & 27 & 9 \\
+		4 & 1 & 1/11 & 4 & 16 & 10 \\
+		5 & 1 & 1/11 & 5 & 25 & 11 \\
+		\hline
+	\end{tabular}
+\end{center}
+
+On \(x_{i}\) és un dels valors del conjunt, \(f_{i}\) és la freqüència amb que \(x_{i}\) apareix en el conjunt, \(f_{r}\) és la freqüència relativa, i \(F_{i}\) és la freqüència absoluta corresponent. Partint d'aquests valors, podem calcular:
+\begin{itemize}
+	\item \textbf{Moda}: el valor o valors que tenen una major freqüència d'aparició en el conjunt. \(Mo = 2\)
+	\item \textbf{Mediana}: el valor (quantitat d'elements impar) o mitjana dels valors (quantitat d'elements par) que es troben al mig del conjunt. \(\{\underbrace{1,1,2,2,2,}_{\text{5 elements}}\underbrace{2}_{Md}\underbrace{,3,3,3,4,5}_{\text{5 elements}}\}\)
+	\item \textbf{Mitjana}: resultat de sumar tots els elements d'un conjunt i dividir entre el nombre d'elements. \(\overline{x} = \frac{\sum x_{i}f_{i}}{\sum f_{i}} \Rightarrow \overline{x} = \frac{28}{11} = 2,\wideparen{54}\)
+	\item \textbf{Variància}: \(\sigma^2 = \frac{\sum x_{i}^{2}f_{i}}{\sum f_{i}} - \overline{x}^2 \Rightarrow \sigma^2 = \frac{86}{11} - 2,\wideparen{54}^2 \approx 1,33\)
+	\item \textbf{Desviació típica}: \(\sigma = \sqrt{\sigma^2} \Rightarrow \sigma \approx \sqrt{1,33} \approx 1,15\)
+\end{itemize}
+
+\end{document}
