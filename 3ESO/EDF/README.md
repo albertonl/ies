@@ -12,7 +12,7 @@ CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls
 
 #### Mòduls / Modules
 
-- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) QSCB ([quiero_ser_como_beckham](https://github.com/albertonl/ies/blob/master/3ESO/EDF/quiero_ser_como_beckham) "_Quiero ser como Beckham_: resumen y opinión personal (Formato / Format / Format: Markdown).
+- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) QSCB ([quiero_ser_como_beckham](https://github.com/albertonl/ies/blob/master/3ESO/EDF/quiero_ser_como_beckham)) "_Quiero ser como Beckham_: resumen y opinión personal (Formato / Format / Format: Markdown).
 
 ## Copyright
 
