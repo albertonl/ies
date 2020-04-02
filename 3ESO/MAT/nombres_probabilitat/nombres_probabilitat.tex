@@ -1,0 +1,97 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[catalan]{babel}
+\usepackage[utf8]{inputenc}
+
+\usepackage[right=2cm,left=3cm,top=4cm,bottom=2cm,headsep=0.5cm,footskip=0.5cm]{geometry}
+\usepackage{graphicx,subfigure}
+\usepackage{amsmath,amssymb}
+\usepackage{underscore}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{yhmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\textbf{Alberto Navalón Lillo}}
+\lhead{\textit{Nombres i probabilitat}}
+
+\begin{document}
+
+\section{Nombres naturals, enters, racionals i irracionals}
+Comencem amb una explicació dels nombres. Els nombres \textbf{naturals} (\(\mathbb{N}\)), son aquells que pertanyen al conjunt següent: \(\mathbb{N} = \{1, 2, 3, 4, \dots, \infty\}\); mentre que els nombres \textbf{enters} (\(\mathbb{Z}\)) son els que pertanyen al conjunt que comprén des de \(-\infty\) fins a \(\infty\) de la següent forma: \(\mathbb{Z} = \{-\infty, \dots, -4, -3, -2, -1, 0, 1, 2, 3, 4, \dots, \infty\}\).\\
+
+Després trobem els nombres \textbf{racionals} (\(\mathbb{Q}\)). Aquest és un conjunt que representa a tots els nombres enters (que a la mateixa vegada inclou als naturals) i als nombres fraccionaris, és a dir, que es troben en forma de fracció de dos nombres enters. Com el nombre ``racional'' indica, els nombres que pertanyen a aquest conjunt poden \textbf{racionar-se}, és a dir, partir-los, de forma que es puga crear una fracció de nombres enters que represente al nombre.\\
+
+També trobem, però, els nombres \textbf{irracionals}. Aquests són tots aquells que \textbf{no poden representar-se en forma de fracció de nombres enters}. Alguns exemples populars són el nombre \textit{pi} (\(\pi = 3,141592\dots\)), el nombre \textit{e} (\(e = 2,718281\dots\)), el \textit{nombre auri} (\(\phi = 1,618033\)) o, per example, l'arrel quadrada de 2, encara que amb qualsevol nombre primer funcionaria (\(\sqrt{2} = 1,414213\dots\)). A la mateixa vegada, els nombres irracionals poden ser \textbf{trascendents}, si no s'hi pot crear una equació amb nombres enters que tinga com a resultat aquest nombre.
+
+\section{Probabilitat}
+En aquesta secció parlarem de \textbf{probabilitat condicionada} i de \textbf{(in)dependència de successos}. Imaginem un grup de 54 persones, de les quals:
+\begin{itemize}
+	\item 22 són \textbf{xics}.
+	\item 32 són \textbf{xiques}.
+	\item D'entre els xics, 14 d'ells \textbf{tenen mòbil}.
+	\item D'entre les xiques, 24 d'elles \textbf{tenen mòbil}.
+\end{itemize}
+
+Ara, determinem els successos \textit{A} i \textit{B}, i els seus successos complementaris: \(A^c\) i \(B^c\), respectivament. Si triem una de les persones aleatòriament, tenim els següents successos.
+\begin{itemize}
+	\item \(A = \text{La persona triada aleatòriament és una \textbf{xica}.}\)
+	\item \(B = \text{La persona triada aleatòriament \textbf{té mòbil}.}\)
+	\item \(A^c = \text{La persona triada aleatòriament és un \textbf{xic}.}\)
+	\item \(B^c = \text{La persona triada aleatòriament \textbf{\underline{NO} té mòbil}.}\)
+\end{itemize}
+
+A partir d'açò, i seguint la \textbf{Regla de Laplace}, podem determinar la probabilitat d'aquests successos. De forma que la probabilitat del succés \textit{A} és:
+
+\[
+	p(A) = \frac{32\text{ xiques}}{54\text{ persones}} = 0,\wideparen{592}
+\]
+
+De la mateixa forma, la probabilitat del succés \textit{B} és:
+
+\[
+	p(B) = \frac{14\text{ xics amb mòbil} + 24\text{ xiques amb mòbil}}{54\text{ persones}} = \frac{38\text{ amb mòbil}}{54\text{ persones}} = 0,\wideparen{703}
+\]
+
+I si ara les combinem i formem la construïm la pregunta ``\textit{Quina és la probabilitat de què una persona que siga xica tinga mòbil?}'', de forma que tenim que combinar les probabilitats de què una de les persones \textbf{siga xica} (succés \textit{A}) i de què una \textbf{xica tinga mòbil} (aquest succés el podem formar, ja que coneixem que 24 de les xiques tenen mòbil; i ho fem en forma d'intersecció dels successos \textit{A} i \textit{B}):
+
+\[
+	p(B,A) = \frac{p(A \cap B)}{p(A)} \Rightarrow p(B,A) = \frac{\frac{24\text{ xiques amb mòbil}}{54\text{ persones}}}{\frac{32\text{ xiques}}{54\text{ persones}}} = 0,75
+\]
+
+Al iqual que immediatament abans, si formulem la pregunta ``\textit{Quina és la probabilitat de què una persona que siga \textbf{xic} tinga mòbil?}'', seguim el mateix procés, però fent ús del succés complementari d'\textit{A}, és a dir, \(A^c\):
+
+\[
+	p(B,A^c) = \frac{p(B \cap A^c)}{p(A^c)} \Rightarrow p(B,A^c) = \frac{\frac{14\text{ xics amb mòbil}}{54\text{ persones}}}{\frac{22\text{ xics}}{54\text{ persones}}} = 0,\wideparen{63}
+\]
+
+Com que hem obtingut resultats diferents, i com que \(p(B,A) > p(B) > p(B,A^c) \Rightarrow 0,75 > 0,\wideparen{63}\); podem determinar què dins d'aquest grup de persones és més fàcil tenir mòbil si s'és xica què si s'és xic i, per tant, els successos \textit{A} i \textit{B} són \textbf{dependents}.
+
+\par\noindent\rule{\textwidth}{0.4pt}\\
+
+Ara, amb unes dades diferents, provarem els mateixos càlculs, per a poder determinar si els successos són dependents o independents. En aquest cas, organitzarem les mateixes dades en forma de taula:
+
+\begin{center}
+	\noindent\begin{tabular}{ | >{\centering\arraybackslash}l | >{\centering\arraybackslash}l | >{\centering\arraybackslash}l | >{\centering\arraybackslash}l |}
+	\hline
+					& \textbf{Mòbil}	& \textbf{NO mòbil} & \textbf{TOTAL}	\\\hline
+	\textbf{Xics} 	& 12				& 3					& 15				\\\hline
+	\textbf{Xiques} & 24				& 6					& 30				\\\hline
+	\textbf{TOTAL} 	& 36				& 9					& 45				\\\hline
+	\end{tabular}
+\end{center}
+
+I calculem les probabilitats a partir dels successos definits anteriorment:
+
+\[
+	p(B) = \frac{36}{45} = 0,8
+\]
+\[
+	p(B,A) = \frac{p(B \cap A)}{p(A)} \Rightarrow p(B,A) = \frac{12}{15} = 0,8
+\]
+\[
+	p(B,A^c) = \frac{p(B \cap A^c)}{p(A^c)} \Rightarrow p(B,A^c) = \frac{36}{45} = 0,8
+\]
+
+Aleshores, com que \(p(B) = p(B,A) = p(B,A^c) \Rightarrow 0,8 = 0,8 = 0,8\); sabem què dins d'aquest grup hi ha la mateixa probabilitat de tenir mòbil si s'és xic o xica i, per tant, els successos \textit{A} i \textit{B} són \textbf{independents}.
+\end{document}
