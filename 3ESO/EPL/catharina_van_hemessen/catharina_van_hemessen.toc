@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{Introducci\IeC {\'o}n}{1}
+\contentsline {chapter}{\numberline {1}Biograf\IeC {\'\i }a}{3}
+\contentsline {section}{\numberline {1.1}Reconocimiento}{5}
+\contentsline {section}{\numberline {1.2}Trabajo como pintora y retratista}{5}
+\contentsline {chapter}{\numberline {2}Trabajos notables}{7}
+\contentsline {section}{\numberline {2.1}\textit {Autorretrato}}{7}
+\contentsline {section}{\numberline {2.2}\textit {Retrato de una dama}}{7}
+\contentsline {section}{\numberline {2.3}\textit {Retrato de un ni\IeC {\~n}o}}{8}
