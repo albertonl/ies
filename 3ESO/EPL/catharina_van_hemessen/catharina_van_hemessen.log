@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.8)  8 APR 2020 16:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.8)  8 APR 2020 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -497,26 +497,8 @@ LaTeX Info: Redefining \_ on input line 42.
 (/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-
-LaTeX Warning: Command \@arrayparboxrestore  has changed.
-               Check if current package is valid.
-
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
-Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks20
-\footnotemargin=\dimen119
-\c@pp@next@reset=\count121
-Package footmisc Info: Declaring symbol style bringhurst on input line 855.
-Package footmisc Info: Declaring symbol style chicago on input line 863.
-Package footmisc Info: Declaring symbol style wiley on input line 872.
-Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
-
-Package footmisc Info: Declaring symbol style lamport* on input line 903.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
-.
 )
 \CenteringLeftskip=\skip43
 \RaggedLeftLeftskip=\skip44
@@ -549,40 +531,40 @@ LaTeX Warning: Label `fig:wrapfig' multiply defined.
 )
 \openout1 = `catharina_van_hemessen.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Try loading font information for OT1+pbk on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Try loading font information for OT1+pbk on input line 36.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pbk.fd
 File: ot1pbk.fd 2001/06/04 font definitions for OT1/pbk.
 )
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <12> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 35.
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 36.
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count122
-\scratchdimen=\dimen120
+\scratchcounter=\count121
+\scratchdimen=\dimen119
 \scratchbox=\box29
-\nofMPsegments=\count123
-\nofMParguments=\count124
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count125
-\MPscratchDim=\dimen121
-\MPnumerator=\count126
-\makeMPintoPDFobject=\count127
-\everyMPtoPDFconversion=\toks22
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen120
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -643,38 +625,37 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count128
-Package ragged2e Info: ABD: executing \RaggedRight on input line 35.
+\c@lstlisting=\count127
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 35.
+LaTeX Info: Redefining \selectfont on input line 36.
 
 ! Undefined control sequence.
-l.37 \frontmatter
+l.38 \frontmatter
                  
 ? q
 OK, entering \batchmode...
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <20.74> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 38.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 38.
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <20.74> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 38.
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 38.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 38.
+(Font)              <14.4> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 38.
+(Font)              <7> on input line 39.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <24.88> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 39.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 39.
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <24.88> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 39.
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 40.
  (./catharina_van_hemessen.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -717,7 +698,7 @@ Overfull \hbox (2.39966pt too wide) detected at line 19
 \openout3 = `catharina_van_hemessen.toc'.
 
 ! Undefined control sequence.
-l.40 \mainmatter
+l.41 \mainmatter
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -726,45 +707,40 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
  [2]
-Overfull \hbox (0.5599pt too wide) in paragraph at lines 48--49
-\OT1/pbk/l/n/12 la pin-to-ra fla-men-ca re-na-cen-tis-ta Cat-ha-ri-na van He-me
-s-sen (1528?- 
- []
-
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <8> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 53.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 53.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 53.
+(Font)              <5> on input line 54.
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <7> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 53.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <10> not available
-(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 53.
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/pbk/bx/it' in size <10> not available
-(Font)              Font shape `OT1/pbk/b/it' tried instead on input line 53.
+(Font)              Font shape `OT1/pbk/b/it' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/pbk/b/it' in size <10> not available
-(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 53.
-
-Overfull \hbox (3.04294pt too wide) in paragraph at lines 55--56
-[]\OT1/pbk/l/n/12 Este re-tra-to mues-tra a la ar-tis-ta en las fa-ses tem-pra-
-nas de la crea- 
- []
-
+(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 54.
  [3
 
 ]
 <img/self-portrait.jpg, id=19, 291.0072pt x 381.70605pt>
 File: img/self-portrait.jpg Graphic file (type jpg)
 <use img/self-portrait.jpg>
-Package pdftex.def Info: img/self-portrait.jpg  used on input line 61.
+Package pdftex.def Info: img/self-portrait.jpg  used on input line 62.
 (pdftex.def)             Requested size: 140.3969pt x 184.15454pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]\OT1/pbk/l/n/12 Figura 0: |\OT1/pbk/l/it/12 Au-to-rre-tra-to\OT1/pbk/l/n/12 ,
+
+ []
+
  [4 <./img/self-portrait.jpg>]
 Cap\'{\i }tulo 1.
 ! Undefined control sequence.
 \@makechapterhead ...ecnumdepth}>1 \if@mainmatter 
                                                   \thechapter .\ \fi \fi #1\...
-l.72 \chapter{Biografía}
+l.73 \chapter{Biografía}
                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -775,34 +751,54 @@ and I'll forget about whatever was undefined.
 ! Extra \fi.
 \@chapter ...kechapterhead {#2}\@afterheading \fi 
                                                   
-l.72 \chapter{Biografía}
+l.73 \chapter{Biografía}
                          
 I'm ignoring this; it doesn't match any \if.
 
 <img/mary-queen-of-hungary.jpg, id=23, 1505.1432pt x 1793.2596pt>
 File: img/mary-queen-of-hungary.jpg Graphic file (type jpg)
 <use img/mary-queen-of-hungary.jpg>
-Package pdftex.def Info: img/mary-queen-of-hungary.jpg  used on input line 78.
+Package pdftex.def Info: img/mary-queen-of-hungary.jpg  used on input line 79.
 (pdftex.def)             Requested size: 140.3969pt x 167.26942pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]\OT1/pbk/l/n/12 Figura 1.1: |Mar[]^^Pa de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\OT1/pbk/l/n/12 Hungr[]^^Pa, Habs-bur-go y
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 85--86
+[][]\OT1/pbk/l/n/12 En 1554, con apro-xi-ma-da-men-te
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 85--86
+\OT1/pbk/l/n/12 26 a[]nos, con-trae ma-tri-mo-nio con
+ []
+
  [5
 
  <./img/mary-queen-of-hungary.jpg>]
 <img/retablo-de-tendilla.jpeg, id=27, 3277.24374pt x 2669.975pt>
 File: img/retablo-de-tendilla.jpeg Graphic file (type jpg)
 <use img/retablo-de-tendilla.jpeg>
-Package pdftex.def Info: img/retablo-de-tendilla.jpeg  used on input line 92.
+Package pdftex.def Info: img/retablo-de-tendilla.jpeg  used on input line 93.
 (pdftex.def)             Requested size: 292.5pt x 238.29109pt.
  [6 <./img/retablo-de-tendilla.jpeg>]
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <17.28> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 99.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 100.
 LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 99.
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 100.
 LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <17.28> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 99.
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 100.
 
-Overfull \hbox (0.55951pt too wide) in paragraph at lines 111--112
+Overfull \hbox (7.24104pt too wide) in paragraph at lines 112--113
 []\OT1/pbk/l/n/12 A pe-sar de que van He-mes-sen cre[]o al me-nos dos obras de 
-car[]acter 
+car[]acter
  []
 
  [7] [8]
@@ -810,7 +806,7 @@ Cap\'{\i }tulo 2.
 ! Undefined control sequence.
 \@makechapterhead ...ecnumdepth}>1 \if@mainmatter 
                                                   \thechapter .\ \fi \fi #1\...
-l.117 \chapter{Trabajos notables}
+l.118 \chapter{Trabajos notables}
                                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -821,17 +817,17 @@ and I'll forget about whatever was undefined.
 ! Extra \fi.
 \@chapter ...kechapterhead {#2}\@afterheading \fi 
                                                   
-l.117 \chapter{Trabajos notables}
+l.118 \chapter{Trabajos notables}
                                  
 I'm ignoring this; it doesn't match any \if.
 
 LaTeX Font Info:    Font shape `OT1/pbk/bx/it' in size <17.28> not available
-(Font)              Font shape `OT1/pbk/b/it' tried instead on input line 121.
+(Font)              Font shape `OT1/pbk/b/it' tried instead on input line 122.
 LaTeX Font Info:    Font shape `OT1/pbk/b/it' in size <17.28> not available
-(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 121.
+(Font)              Font shape `OT1/pbk/db/it' tried instead on input line 122.
 
 LaTeX Font Info:    Font shape `OT1/pbk/m/sc' in size <12> not available
-(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 123.
+(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 124.
  [9
 
 ] [10] [11] [12] [13] [14]
@@ -839,7 +835,7 @@ Cap\'{\i }tulo 3.
 ! Undefined control sequence.
 \@makechapterhead ...ecnumdepth}>1 \if@mainmatter 
                                                   \thechapter .\ \fi \fi #1\...
-l.274 \chapter{Galería de obras}
+l.275 \chapter{Galería de obras}
                                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -850,23 +846,23 @@ and I'll forget about whatever was undefined.
 ! Extra \fi.
 \@chapter ...kechapterhead {#2}\@afterheading \fi 
                                                   
-l.274 \chapter{Galería de obras}
+l.275 \chapter{Galería de obras}
                                  
 I'm ignoring this; it doesn't match any \if.
 
 <img/public-domain.png, id=57, 983.675pt x 983.675pt>
 File: img/public-domain.png Graphic file (type png)
 <use img/public-domain.png>
-Package pdftex.def Info: img/public-domain.png  used on input line 283.
+Package pdftex.def Info: img/public-domain.png  used on input line 284.
 (pdftex.def)             Requested size: 22.75462pt x 22.76228pt.
 <img/cc0.png, id=59, 138.7584pt x 48.9027pt>
 File: img/cc0.png Graphic file (type png)
 <use img/cc0.png>
-Package pdftex.def Info: img/cc0.png  used on input line 287.
+Package pdftex.def Info: img/cc0.png  used on input line 288.
 (pdftex.def)             Requested size: 64.5855pt x 22.76228pt.
 File: img/self-portrait.jpg Graphic file (type jpg)
 <use img/self-portrait.jpg>
-Package pdftex.def Info: img/self-portrait.jpg  used on input line 293.
+Package pdftex.def Info: img/self-portrait.jpg  used on input line 294.
 (pdftex.def)             Requested size: 117.00119pt x 153.466pt.
 <img/portrait-of-a-22-year-old-woman-playing-the-spinet.jpg, id=60, 96.36pt x 1
 24.0635pt>
@@ -874,7 +870,7 @@ File: img/portrait-of-a-22-year-old-woman-playing-the-spinet.jpg Graphic file (
 type jpg)
 <use img/portrait-of-a-22-year-old-woman-playing-the-spinet.jpg>
 Package pdftex.def Info: img/portrait-of-a-22-year-old-woman-playing-the-spinet
-.jpg  used on input line 300.
+.jpg  used on input line 301.
 (pdftex.def)             Requested size: 155.99762pt x 200.84734pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -885,7 +881,7 @@ File: img/portrait-of-a-woman-probably-a-self-portrait.jpeg Graphic file (type
 jpg)
 <use img/portrait-of-a-woman-probably-a-self-portrait.jpeg>
 Package pdftex.def Info: img/portrait-of-a-woman-probably-a-self-portrait.jpeg 
- used on input line 306.
+ used on input line 307.
 (pdftex.def)             Requested size: 155.99762pt x 234.64993pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -894,7 +890,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: img/portrait-of-a-30-year-old-woman.jpg Graphic file (type jpg)
 <use img/portrait-of-a-30-year-old-woman.jpg>
 Package pdftex.def Info: img/portrait-of-a-30-year-old-woman.jpg  used on input
- line 312.
+ line 313.
 (pdftex.def)             Requested size: 155.99762pt x 210.24438pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -903,7 +899,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: img/portrait-of-a-42-year-old-man.jpg Graphic file (type jpg)
 <use img/portrait-of-a-42-year-old-man.jpg>
 Package pdftex.def Info: img/portrait-of-a-42-year-old-man.jpg  used on input l
-ine 318.
+ine 319.
 (pdftex.def)             Requested size: 155.99762pt x 206.89635pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -912,7 +908,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: img/portrait-of-a-young-lady.jpg Graphic file (type jpg)
 <use img/portrait-of-a-young-lady.jpg>
 Package pdftex.def Info: img/portrait-of-a-young-lady.jpg  used on input line 3
-24.
+25.
 (pdftex.def)             Requested size: 155.99762pt x 214.23062pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -921,7 +917,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: img/portrait-of-a-woman-with-a-dog.jpg Graphic file (type jpg)
 <use img/portrait-of-a-woman-with-a-dog.jpg>
 Package pdftex.def Info: img/portrait-of-a-woman-with-a-dog.jpg  used on input 
-line 330.
+line 331.
 (pdftex.def)             Requested size: 155.99762pt x 203.97128pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -930,7 +926,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: img/predella-tendilla-retablo.jpeg Graphic file (type jpg)
 <use img/predella-tendilla-retablo.jpeg>
 Package pdftex.def Info: img/predella-tendilla-retablo.jpeg  used on input line
- 336.
+ 337.
 (pdftex.def)             Requested size: 312.00119pt x 122.38748pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -938,7 +934,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <img/portrait-of-a-woman.jpg, id=67, 559.08875pt x 757.83125pt>
 File: img/portrait-of-a-woman.jpg Graphic file (type jpg)
 <use img/portrait-of-a-woman.jpg>
-Package pdftex.def Info: img/portrait-of-a-woman.jpg  used on input line 342.
+Package pdftex.def Info: img/portrait-of-a-woman.jpg  used on input line 343.
 (pdftex.def)             Requested size: 155.99762pt x 211.45123pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -946,7 +942,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <img/portrait-of-a-man.jpg, id=68, 320.19624pt x 398.48875pt>
 File: img/portrait-of-a-man.jpg Graphic file (type jpg)
 <use img/portrait-of-a-man.jpg>
-Package pdftex.def Info: img/portrait-of-a-man.jpg  used on input line 348.
+Package pdftex.def Info: img/portrait-of-a-man.jpg  used on input line 349.
 (pdftex.def)             Requested size: 155.99762pt x 194.1424pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -954,7 +950,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <img/portrait-of-a-child.jpg, id=69, 1142.01656pt x 1541.76pt>
 File: img/portrait-of-a-child.jpg Graphic file (type jpg)
 <use img/portrait-of-a-child.jpg>
-Package pdftex.def Info: img/portrait-of-a-child.jpg  used on input line 354.
+Package pdftex.def Info: img/portrait-of-a-child.jpg  used on input line 355.
 (pdftex.def)             Requested size: 155.99762pt x 210.59877pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -963,7 +959,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: img/portrait-of-a-young-woman.jpg Graphic file (type jpg)
 <use img/portrait-of-a-young-woman.jpg>
 Package pdftex.def Info: img/portrait-of-a-young-woman.jpg  used on input line 
-360.
+361.
 (pdftex.def)             Requested size: 155.99762pt x 208.81085pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -971,7 +967,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <img/christ-meets-veronica.jpg, id=71, 144.54pt x 192.72pt>
 File: img/christ-meets-veronica.jpg Graphic file (type jpg)
 <use img/christ-meets-veronica.jpg>
-Package pdftex.def Info: img/christ-meets-veronica.jpg  used on input line 366.
+Package pdftex.def Info: img/christ-meets-veronica.jpg  used on input line 367.
 
 (pdftex.def)             Requested size: 155.99762pt x 208.00803pt.
 
@@ -991,7 +987,7 @@ Cap\'{\i }tulo 4.
 ! Undefined control sequence.
 \@makechapterhead ...ecnumdepth}>1 \if@mainmatter 
                                                   \thechapter .\ \fi \fi #1\...
-l.371 \chapter{Conclusiones}
+l.372 \chapter{Conclusiones}
                             
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1002,7 +998,7 @@ and I'll forget about whatever was undefined.
 ! Extra \fi.
 \@chapter ...kechapterhead {#2}\@afterheading \fi 
                                                   
-l.371 \chapter{Conclusiones}
+l.372 \chapter{Conclusiones}
                             
 I'm ignoring this; it doesn't match any \if.
 
@@ -1013,7 +1009,7 @@ Cap\'{\i }tulo 5.
 ! Undefined control sequence.
 \@makechapterhead ...ecnumdepth}>1 \if@mainmatter 
                                                   \thechapter .\ \fi \fi #1\...
-l.381 \chapter{Referencias}
+l.382 \chapter{Referencias}
                            
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1024,84 +1020,165 @@ and I'll forget about whatever was undefined.
 ! Extra \fi.
 \@chapter ...kechapterhead {#2}\@afterheading \fi 
                                                   
-l.381 \chapter{Referencias}
+l.382 \chapter{Referencias}
                            
 I'm ignoring this; it doesn't match any \if.
 
 
-Overfull \hbox (2.00043pt too wide) in paragraph at lines 390--391
-[]\OT1/pbk/l/n/12 https://www.mujeresenlahistoria.com/2012/06/el-arte-flamenco-
- 
+Overfull \hbox (37.52008pt too wide) in paragraph at lines 387--389
+\OT1/pbk/l/n/12 http://mujerespintoras.blogspot.com/2007/11/caterina-van-hemess
+en-
  []
 
 
-Overfull \hbox (53.5998pt too wide) in paragraph at lines 393--394
-[]\OT1/pbk/l/n/12 https://www.abc.com.py/edicion-impresa/suplementos/cultural/c
-aterina- 
+Overfull \hbox (2.00043pt too wide) in paragraph at lines 390--392
+\OT1/pbk/l/n/12 https://www.mujeresenlahistoria.com/2012/06/el-arte-flamenco-
+ []
+
+
+Overfull \hbox (6.90564pt too wide) in paragraph at lines 393--395
+[]\OT1/pbk/l/sc/12 Piccardo\OT1/pbk/l/n/12 , An-drea (2016). ``Ca-te-ri-na van 
+He-mes-sen (1528-1587)''.
+ []
+
+
+Overfull \hbox (53.5998pt too wide) in paragraph at lines 393--395
+\OT1/pbk/l/n/12 https://www.abc.com.py/edicion-impresa/suplementos/cultural/cat
+erina-
+ []
+
+
+Overfull \hbox (15.52411pt too wide) in paragraph at lines 396--398
+\OT1/pbk/l/n/12 http://sansemujeresenelrenacimiento.blogspot.com/p/caterina-van
+-
  []
 
  [23
 
 ]
-Overfull \hbox (9.81187pt too wide) in paragraph at lines 408--409
-[]\OT1/pbk/l/n/12 https://www.hermitagemuseum.org/wps/portal/hermitage/digital-
- 
+Overfull \hbox (4.98882pt too wide) in paragraph at lines 405--407
+\OT1/pbk/l/n/12 https://en.wikipedia.org/wiki/List[]-of[]-pain-tings[]-by[]-Cat
+-ha-ri-na[]-van[]-
  []
 
 
-Overfull \hbox (146.15576pt too wide) in paragraph at lines 408--409
-\OT1/pbk/l/n/12 Cjv0SOx-pC27RUFijI1OEx8hF5RNXRvUJlUbVolfT0BcQFDmm6XHrx8bJAiQRh1
-1pZy2RjW- 
+Overfull \hbox (9.81187pt too wide) in paragraph at lines 408--410
+\OT1/pbk/l/n/12 https://www.hermitagemuseum.org/wps/portal/hermitage/digital-
  []
 
 
-Overfull \hbox (443.5006pt too wide) in paragraph at lines 408--409
-\OT1/pbk/l/n/12 LfAXRP2aryuQnXL1uTYHCwJDcrZR2jhtqgFEnMeUehf5I-36JvNpd3RRFA884sk
-XMO2jdy0Z9y1BQiOKYXyBmGdRluTphwwzuzj3Mn15KPuyJ6- 
+Overfull \hbox (28.87686pt too wide) in paragraph at lines 408--410
+\OT1/pbk/l/n/12 collection/01.$ $%20Paintings/38355/!ut/p/z1/jZBNT8MwDIb[]-Cjv0
+SOx-
  []
 
 
-Overfull \hbox (1.66399pt too wide) in paragraph at lines 416--416
-[]\OT1/pbk/l/n/12 ``Young girl pla-ying the vir-gi-nal by Cat-ha-ri-na van He-m
-es-sen (1528- 
+Overfull \hbox (90.9561pt too wide) in paragraph at lines 408--410
+\OT1/pbk/l/n/12 pC27RUFijI1OEx8hF5RNXRvUJlUbVolfT0BcQFDmm6XHrx8bJAiQRh11pZy2RjW
+-
  []
 
 
-Overfull \hbox (0.6087pt too wide) in paragraph at lines 417--418
-[]\OT1/pbk/l/n/12 https://en.wahooart.com/@@/A2A2F4-Catharina-Van-Hemessen- 
+Overfull \hbox (314.15346pt too wide) in paragraph at lines 408--410
+\OT1/pbk/l/n/12 f5Lpc8FYGsYclwWnl8iK7YZu-e0Vhgk8fgL4RzEEecr8BCCn45f[]-LfAXRP2ar
+yuQnXL1uTYHCwJDcrZR2jhtqgFEnMeUehf5I-
+ []
+
+
+Overfull \hbox (106.30374pt too wide) in paragraph at lines 408--410
+\OT1/pbk/l/n/12 36JvNpd3RRFA884skXMO2jdy0Z9y1BQiOKYXyBmGdRluTphwwzuzj3Mn15KPuyJ
+6-
+ []
+
+
+Overfull \hbox (40.73598pt too wide) in paragraph at lines 411--413
+\OT1/pbk/l/n/12 https://useum.org/artwork/Young-woman-playing-a-virginal-Cathar
+ina-
+ []
+
+
+Overfull \hbox (0.6087pt too wide) in paragraph at lines 417--419
+\OT1/pbk/l/n/12 https://en.wahooart.com/@@/A2A2F4-Catharina-Van-Hemessen-
+ []
+
+
+Overfull \hbox (39.05557pt too wide) in paragraph at lines 420--422
+\OT1/pbk/l/n/12 https://artsandculture.google.com/asset/portrait-of-a-woman-pro
+bably-
+ []
+
+
+Overfull \hbox (0.42839pt too wide) in paragraph at lines 426--428
+\OT1/pbk/l/n/12 https://useum.org/artwork/Portrait-of-a-Woman-probably-a-Self-
  []
 
  [24]
-Overfull \hbox (42.84769pt too wide) in paragraph at lines 428--428
+Overfull \hbox (53.17758pt too wide) in paragraph at lines 429--431
 []\OT1/pbk/l/sc/12 Varios Au-to-res \OT1/pbk/l/n/12 (2014-2020). ``Por-trait of
- a wo-man (1548)'' (Q17339370). 
+ a wo-man (1548)'' (Q17339370).
  []
 
-LaTeX Font Info:    Try loading font information for U+lasy on input line 437.
+
+Overfull \hbox (42.69191pt too wide) in paragraph at lines 432--434
+\OT1/pbk/l/n/12 https://useum.org/artwork/Portrait-of-a-30-year-old-Woman-Catha
+rina-
+ []
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 438.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (2.4843pt too wide) in paragraph at lines 437--437
+Overfull \hbox (14.63792pt too wide) in paragraph at lines 438--440
 []\OT1/pbk/l/n/12 ``Kunstwerk []Vrouwenportret[]'' (s.f.). Ko-nin-klij-ke Mu-se
-a voor Scho- 
+a voor Scho-
+ []
+
+
+Overfull \hbox (62.87599pt too wide) in paragraph at lines 438--440
+\OT1/pbk/l/n/12 https://www.fine-arts-museum.be/nl/de-collectie/catharina-van-h
+emessen-
+ []
+
+
+Overfull \hbox (38.82802pt too wide) in paragraph at lines 447--449
+\OT1/pbk/l/n/12 https://www.nationalgallery.org.uk/paintings/catharina-van-heme
+ssen-
  []
 
  [25]
-Overfull \hbox (81.39171pt too wide) in paragraph at lines 456--457
-[]\OT1/pbk/l/n/12 https://www.cincinnatiartmuseum.org/art/explore-the-collectio
-n?id=11315623  
+Overfull \hbox (81.39171pt too wide) in paragraph at lines 456--458
+\OT1/pbk/l/n/12 https://www.cincinnatiartmuseum.org/art/explore-the-collection?
+id=11315623 
  []
 
 
-Overfull \hbox (42.84769pt too wide) in paragraph at lines 458--458
+Overfull \hbox (53.17758pt too wide) in paragraph at lines 459--461
 []\OT1/pbk/l/sc/12 Varios Au-to-res \OT1/pbk/l/n/12 (2015-2019). ``Por-trait of
- a wo-man (1555)'' (Q19204095). 
+ a wo-man (1555)'' (Q19204095).
  []
 
 
-Overfull \hbox (38.4916pt too wide) in paragraph at lines 471--472
-[]\OT1/pbk/l/n/12 https://arthistoryproject.com/artists/catharina-van-hemessen/
-portrait- 
+Overfull \hbox (38.82802pt too wide) in paragraph at lines 465--467
+\OT1/pbk/l/n/12 https://www.nationalgallery.org.uk/paintings/catharina-van-heme
+ssen-
+ []
+
+
+Overfull \hbox (38.4916pt too wide) in paragraph at lines 471--473
+\OT1/pbk/l/n/12 https://arthistoryproject.com/artists/catharina-van-hemessen/po
+rtrait-
+ []
+
+
+Overfull \hbox (43.6279pt too wide) in paragraph at lines 474--476
+\OT1/pbk/l/n/12 https://useum.org/artwork/Portrait-of-a-Child-Catharina-van-Hem
+essen 
+ []
+
+
+Overfull \hbox (44.68356pt too wide) in paragraph at lines 477--479
+\OT1/pbk/l/n/12 https://useum.org/artwork/Christ-Carrying-the-Cross-with-the-Me
+eting-
  []
 
  [26] [27]
@@ -1109,7 +1186,7 @@ Cap\'{\i }tulo 6.
 ! Undefined control sequence.
 \@makechapterhead ...ecnumdepth}>1 \if@mainmatter 
                                                   \thechapter .\ \fi \fi #1\...
-l.485 \chapter{Notas}
+l.486 \chapter{Notas}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1120,15 +1197,21 @@ and I'll forget about whatever was undefined.
 ! Extra \fi.
 \@chapter ...kechapterhead {#2}\@afterheading \fi 
                                                   
-l.485 \chapter{Notas}
+l.486 \chapter{Notas}
                      
 I'm ignoring this; it doesn't match any \if.
 
 <img/cc-by-nc.png, id=115, 88.33pt x 31.11626pt>
 File: img/cc-by-nc.png Graphic file (type png)
 <use img/cc-by-nc.png>
-Package pdftex.def Info: img/cc-by-nc.png  used on input line 501.
+Package pdftex.def Info: img/cc-by-nc.png  used on input line 502.
 (pdftex.def)             Requested size: 80.77127pt x 28.45274pt.
+
+Overfull \hbox (2.45564pt too wide) in paragraph at lines 498--504
+\OT1/pbk/l/n/12 Atri-bu-ci[]on/Reconocimiento-NoComercial 4.0 In-ter-na-cio-nal
+ (CC BY-
+ []
+
  [28
 
  <./img/cc-by-nc.png>] (./catharina_van_hemessen.aux
@@ -1140,20 +1223,20 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6221 strings out of 494156
- 91720 string characters out of 6159537
- 168773 words of memory out of 5000000
- 9468 multiletter control sequences out of 15000+600000
+ 6121 strings out of 494156
+ 90121 string characters out of 6159537
+ 167251 words of memory out of 5000000
+ 9372 multiletter control sequences out of 15000+600000
  24090 words of font info for 58 fonts, out of 8000000 for 9000
  445 hyphenation exceptions out of 8191
- 42i,9n,40p,732b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,9n,40p,732b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/bookman/ubkdi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/u
 bkli8a.pfb>
-Output written on catharina_van_hemessen.pdf (29 pages, 11562612 bytes).
+Output written on catharina_van_hemessen.pdf (29 pages, 11565409 bytes).
 PDF statistics:
  139 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream
