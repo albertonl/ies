@@ -2,11 +2,11 @@
 
 #### Llengua castellana i literatura: literatura barroca / Spanish language and literature: baroque literature
 
-ENG: ![language spa](https://img.shields.io/badge/language-spa-orange.svg) ![modules 4](https://img.shields.io/badge/modules-4-brightgreen.svg) ![stable yes](https://img.shields.io/badge/stable-yes-brightgreen.svg)
+ENG: ![language spa](https://img.shields.io/badge/language-spa-orange.svg) ![modules 5](https://img.shields.io/badge/modules-5-brightgreen.svg) ![stable yes](https://img.shields.io/badge/stable-yes-brightgreen.svg)
 
-SPA: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![módulos 4](https://img.shields.io/badge/m%C3%B3dulos-4-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
+SPA: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![módulos 5](https://img.shields.io/badge/m%C3%B3dulos-5-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
 
-CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls 4](https://img.shields.io/badge/m%C3%B2duls-4-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
+CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls 5](https://img.shields.io/badge/m%C3%B2duls-5-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
 
 ## Módulos
 
@@ -19,6 +19,8 @@ CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls
 - ![OK](https://img.shields.io/badge/OK-brightgreen.svg) _La dama boba_ ([la_dama_boba](https://github.com/albertonl/ies/blob/master/3ESO/LCL/barroco/la_dama_boba)): "Análisis de _La dama boba_" (Formato / Format / Format: LaTeX, PDF).
 
 - ![OK](https://img.shields.io/badge/OK-brightgreen.svg) _Romeo y Julieta_ ([romeo_y_julieta](https://github.com/albertonl/ies/blob/master/3ESO/LCL/barroco/romeo_y_julieta)): "Análisis de _Romeo y Julieta_" (Formato / Format / Format: LaTeX, PDF).
+
+- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) _Mucho ruido y pocas nueces_ ([mucho_ruido_y_pocas_nueces](https://github.com/albertonl/ies/blob/master/3ESO/LCL/barroco/mucho_ruido_y_pocas_nueces)): "Análisis de _Mucho ruido y pocas nueces_" (Formato / Format / Format: LaTeX, PDF).
 
 ## Copyright
 
