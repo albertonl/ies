@@ -2,11 +2,11 @@
 
 #### Llengua castellana i literatura / Spanish language and literature
 
-ENG: ![language spa](https://img.shields.io/badge/language-spa-orange.svg) ![modules 3](https://img.shields.io/badge/modules-3-brightgreen.svg) ![stable yes](https://img.shields.io/badge/stable-yes-brightgreen.svg)
+ENG: ![language spa](https://img.shields.io/badge/language-spa-orange.svg) ![modules 4](https://img.shields.io/badge/modules-4-brightgreen.svg) ![stable yes](https://img.shields.io/badge/stable-yes-brightgreen.svg)
 
-SPA: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![módulos 3](https://img.shields.io/badge/m%C3%B3dulos-3-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
+SPA: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![módulos 4](https://img.shields.io/badge/m%C3%B3dulos-4-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
 
-CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls 3](https://img.shields.io/badge/m%C3%B2duls-3-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
+CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls 4](https://img.shields.io/badge/m%C3%B2duls-4-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
 
 ## Módulos
 
@@ -16,7 +16,9 @@ CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls
 
 - ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Exámenes ([tests](https://github.com/albertonl/ies/blob/master/3ESO/LCL/tests/)): preparación de exámenes y apuntes (Formato / Format / Format: Markdown).
 
-- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Barroco ([barroco](https://github.com/albertonl/ies/blob/master/3ESO/LCL/barroco/)): literatura barroca (Formato / Format / Format: Markdown).
+- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Barroco ([barroco](https://github.com/albertonl/ies/blob/master/3ESO/LCL/barroco/)): literatura barroca (Formato / Format / Format: Markdown, LaTeX, PDF).
+
+- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Sintaxis ([sintaxis](https://github.com/albertonl/ies/blob/master/3ESO/LCL/sintaxis/)): análisis sintáctico de oraciones (Formato / Format / Format: PDF).
 
 ## Copyright
 
