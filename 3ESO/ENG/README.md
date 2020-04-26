@@ -2,7 +2,7 @@
 
 #### Inglés / Anglès
 
-ENG: ![language eng](https://img.shields.io/badge/language-eng-orange.svg) ![modules 3](https://img.shields.io/badge/modules-3-brightgreen.svg) ![stable yes](https://img.shields.io/badge/stable-no-brightgreen.svg)
+ENG: ![language eng](https://img.shields.io/badge/language-eng-orange.svg) ![modules 3](https://img.shields.io/badge/modules-3-brightgreen.svg) ![stable yes](https://img.shields.io/badge/stable-yes-brightgreen.svg)
 
 SPA: ![idioma eng](https://img.shields.io/badge/idioma-eng-orange.svg) ![módulos 3](https://img.shields.io/badge/m%C3%B3dulos-3-brightgreen.svg) ![estable sí](https://img.shields.io/badge/estable-s%C3%AD-brightgreen.svg)
 
