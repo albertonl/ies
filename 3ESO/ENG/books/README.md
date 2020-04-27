@@ -8,10 +8,10 @@
 
 ### Contents
 
-| **Date**   | **Book Name**         | **Edition**      | **Summary**        | **Opinion**        |
-|:----------:|:---------------------:|:----------------:|:------------------:|:------------------:|
-| 2020-26-04 | _Pride and Prejudice_ | Burlington Books | :heavy_check_mark: | :heavy_check_mark: |
-| ?          | ?                     | Oxford           | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| **Date**   | **Book Name**          | **Edition**      | **Summary**        | **Opinion**        |
+|:----------:|:----------------------:|:----------------:|:------------------:|:------------------:|
+| 2020-26-04 | _Pride and Prejudice_  | Burlington Books | :heavy_check_mark: | :heavy_check_mark: |
+| 2020-27-04 | _The thirty-nine steps_| Oxford           | :heavy_check_mark: | :heavy_check_mark: |
 
 ### Copyright
 

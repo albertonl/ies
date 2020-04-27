@@ -2,7 +2,7 @@
 
 By **Jane Austen** (adapted). For more references, [click here](https://libreriasoriano.com/es/libro/pride-and-prejudice-col-burlington-books-1-bachillerato_345626#).
 
-**Alberto Navalón Lillo**, Tue 2020-04-26
+**Alberto Navalón Lillo**, Sun 2020-04-26
 
 ## Summary
 
