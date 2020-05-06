@@ -30,3 +30,5 @@ Las drogas dañan seriamente nuestra salud, ya que afectan directamente al siste
 - Provocados por **daños en otros aparatos/sistemas**: hepatitis, cáncer de pulmón, arritmias...
 - **Trastornos del comportamiento**: llevan a problemas familiares/laborales, actos delictivos y/o conductas agresivas.
 - **Alteraciones en la percepción de la realidad y en la respuesta motora**: llevan a accidentes de tráfico o laborales.
+
+**1 (pág. 92). Esquema** (en la fotografía adjunta).
