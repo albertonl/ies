@@ -18,6 +18,8 @@ CAT: ![idioma spa](https://img.shields.io/badge/idioma-spa-orange.svg) ![mòduls
 
 - ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Redes sociales ([rrss](https://github.com/albertonl/ies/blob/master/3ESO/GYH/rrss/)): "Uso de redes sociales: ventajas e inconvenientes" (Formato / Format / Format: LaTeX, PDF).
 
+- ![OK](https://img.shields.io/badge/OK-brightgreen.svg) Home ([home](https://github.com/albertonl/blob/master/3ESO/GYH/home.md)): "_Home_: la película de la tierra" (Formato / Format / Format: Markdown).
+
 ## Copyright
 
 Copyright (C) 2020 Alberto Navalón Lillo <albertonl.dev@gmail.com> - Todos los derechos reservados / Tots els drets reservats / All rights reserved
