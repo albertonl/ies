@@ -1,6 +1,6 @@
 # ies (`gh-pages`)
 
-![status active](https://img.shields.io/badge/status-active-brightgreen.svg) ![released pages 1](https://img.shields.io/badge/released%20pages-1-orange.svg) ![language es-ES](https://img.shields.io/badge/language-es--ES-red.svg)
+![status active](https://img.shields.io/badge/status-active-brightgreen.svg) ![released pages 2](https://img.shields.io/badge/released%20pages-2-orange.svg) ![language es-ES](https://img.shields.io/badge/language-es--ES-red.svg)
 
 Usted se encuentra actualmente en la rama `gh-pages` del repositorio `albertonl/ies`. Aquí encontrará otros documentos (especialmente para web), los cuales están disponibles en [https://github.com/albertonl/ies/tree/gh-pages/](https://github.com/albertonl/ies/tree/gh-pages).
 
