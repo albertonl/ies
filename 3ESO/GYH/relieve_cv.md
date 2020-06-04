@@ -70,5 +70,8 @@ Normalmente se trata de la zona interior de Castellón, colindante con la provin
 
 ### Actividades apartado 3: el patrimonio natural
 
-Estas actividades se encuentran en un archivo adjunto externo.
+Estas actividades se encuentran en una página web externa. A continuación se especifican las URLs correspondientes:
 
+- Página principal: https://albertonl.github.io/ies/
+- Parque Natural de la Font Roja: https://albertonl.github.io/ies/3ESO/GYH/font-roja/
+- Historia del parque: https://albertonl.github.io/ies/3ESO/GYH/font-roja/historia.html
