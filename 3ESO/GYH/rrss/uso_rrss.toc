@@ -1,8 +1,0 @@
-\babel@toc {spanish}{}
-\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{1}
-\contentsline {section}{\numberline {2}Redes sociales}{2}
-\contentsline {subsection}{\numberline {2.1}Ventajas}{2}
-\contentsline {subsection}{\numberline {2.2}Desventajas}{3}
-\contentsline {subsection}{\numberline {2.3}Uso de redes sociales en Espa\IeC {\~n}a}{3}
-\contentsline {section}{\numberline {3}Opini\IeC {\'o}n personal}{4}
-\contentsline {section}{\numberline {4}Conclusiones}{4}
