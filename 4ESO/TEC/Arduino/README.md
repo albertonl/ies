@@ -2,7 +2,7 @@
 
 Author: Alberto Navalón Lillo (<alberto@albertonl.com>), November 2020
 
-![completed activities](https://img.shields.io/badge/completed%20activities-4-green.svg) ![MIT License](https://img.shields.io/badge/license-MIT-orange.svg)
+![completed activities](https://img.shields.io/badge/completed%20activities-6-green.svg) ![MIT License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 ### Activity tree
 
@@ -10,6 +10,8 @@ Author: Alberto Navalón Lillo (<alberto@albertonl.com>), November 2020
 - Activity 2: [blink_1-2.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/blink_1-2.ino)
 - Activity 3: [serial_3.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/serial_3.ino)
 - Activity 4: [serial_4.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/serial_4.ino)
+- Activity 5: [digital_5.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/digital_5.ino)
+- Activity 6: [digital_6.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/digital_6.ino)
 
 ### License (MIT)
 
