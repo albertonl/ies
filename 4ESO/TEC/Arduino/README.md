@@ -1,19 +1,36 @@
 # Arduino activities
 
-Author: Alberto Navalón Lillo (<alberto@albertonl.com>), November 2020
+Author: Alberto Navalón Lillo (<alberto@albertonl.com>), 2020-2021
 
-![completed activities](https://img.shields.io/badge/completed%20activities-8-green.svg) ![MIT License](https://img.shields.io/badge/license-MIT-orange.svg)
+![completed activities](https://img.shields.io/badge/completed%20activities-13-green.svg) ![MIT License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 ### Activity tree
 
 - Activity 1: [blink_1-2.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/blink_1-2.ino)
 - Activity 2: [blink_1-2.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/blink_1-2.ino)
+
+##### Serial communication
+
 - Activity 3: [serial_3.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/serial_3.ino)
 - Activity 4: [serial_4.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/serial_4.ino)
+
+##### Digital output
+
 - Activity 5: [digital_5.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/digital_5.ino)
 - Activity 6: [digital_6.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/digital_6.ino)
+
+##### Digital input
+
 - Activity 7: [diginput_7.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/diginput_7.ino)
 - Activity 8: [diginput_8.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/diginput_8.ino)
+
+##### Conditionals
+
+- Activity 9: [conditionals_9.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/conditionals_9.ino)
+- Activity 10: [conditionals_10.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/conditionals_10.ino)
+- Activity 11: [conditionals_11.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/conditionals_11.ino)
+- Activity 12: [conditionals_12.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/conditionals_12.ino)
+- Activity 13: [conditionals_13.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/conditionals_13.ino)
 
 ### License (MIT)
 
