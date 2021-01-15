@@ -11,6 +11,9 @@
  *
  * Modified 7 Jan 2021
  * Alberto Navalón Lillo
+ *
+ * Modified 15 Jan 2021
+ * Alberto Navalón Lillo (change to INPUT_PULLUP and invert logic)
  */
 
 // Constant values relative to the pins
@@ -25,10 +28,11 @@ void setup () {
   pinMode(redLed, OUTPUT);
   pinMode(yellowLed, OUTPUT);
   pinMode(greenLed, OUTPUT);
-  pinMode(pushSwitch1, INPUT);
-  pinMode(pushSwitch2, INPUT);
+  pinMode(pushSwitch1, INPUT_PULLUP);
+  pinMode(pushSwitch2, INPUT_PULLUP);
 
-  // Note that the push switches are not INPUT_PULLUP anymore.
+  // Both push switches are INPUT_PULLUP, so the
+  // logic involving them will be reversed.
 }
 
 void loop () {
@@ -36,17 +40,17 @@ void loop () {
   int input1 = digitalRead(pushSwitch1);
   int input2 = digitalRead(pushSwitch2);
 
-  if (input1 == HIGH && input2 == HIGH) {
+  if (input1 == LOW && input2 == LOW) {
     // BOTH buttons are pressed → only green LED on
     digitalWrite(redLed, LOW);
     digitalWrite(yellowLed, LOW);
     digitalWrite(greenLed, HIGH);
-  } else if (input1 == HIGH) {
+  } else if (input1 == LOW) {
     // ONLY the FIRST button is pressed → only red LED on
     digitalWrite(redLed, HIGH);
     digitalWrite(yellowLed, LOW);
     digitalWrite(greenLed, LOW);
-  } else if (input2 == HIGH) {
+  } else if (input2 == LOW) {
     // ONLY the SECOND button is pressed → only yellow LED on
     digitalWrite(redLed, LOW);
     digitalWrite(yellowLed, HIGH);
