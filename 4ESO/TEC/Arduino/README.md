@@ -32,6 +32,24 @@ Author: Alberto Navalón Lillo (<alberto@albertonl.com>), 2020-2021
 - Activity 12: [conditionals_12.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/conditionals_12.ino)
 - Activity 13: [conditionals_13.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/conditionals_13.ino)
 
+##### Loops
+- Activity 14: [loops_14.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/loops_14.ino)
+- Activity 15: [loops_15.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/loops_15.ino)
+- Activity 16: [loops_16.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/loops_16.ino)
+- Activity 17: [loops_17.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/loops_17.ino)
+- Activity 18: [loops_18.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/loops_18.ino)
+
+##### Analog
+- Activity 19: [analog_19.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/analog_19.ino)
+- Activity 20: [analog_20.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/analog_20.ino)
+- Activity 21: [analog_21.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/analog_21.ino)
+- Activity 22: [analog_22.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/analog_22.ino)
+- Activity 23: [analog_23.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/analog_23.ino)
+- Activity 24: [analog_24.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/analog_24.ino)
+
+##### Time control
+- Activity 25: [time_25.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/time_25.ino) [**TODO**]
+
 ### License (MIT)
 
 Copyright 2020, Alberto Navalón (<alberto@albertonl.com>)
