@@ -1,3 +1,17 @@
+/*
+ * time_25.ino
+ * This program will show the number of milliseconds since the
+ * beginning of the execution of the program on the serial monitor
+ * within 1-second intervals.
+ *
+ * This code is distributed under the MIT License.
+ * For more information, please refer to:
+ * https://albertonl.github.io/ies/4ESO/TEC/Arduino
+ *
+ * Modified 14 Feb 2021
+ * Alberto Navalón Lillo (add comments)
+ */
+
 // This variable will store the number of milliseconds since
 // the program started running:
 unsigned long time_ms;
