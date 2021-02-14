@@ -2,7 +2,7 @@
 
 Author: Alberto Navalón Lillo (<alberto@albertonl.com>), 2020-2021
 
-![completed activities](https://img.shields.io/badge/completed%20activities-13-green.svg) ![MIT License](https://img.shields.io/badge/license-MIT-orange.svg)
+![completed activities](https://img.shields.io/badge/completed%20activities-25-green.svg) ![MIT License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 ### Activity tree
 
@@ -48,7 +48,7 @@ Author: Alberto Navalón Lillo (<alberto@albertonl.com>), 2020-2021
 - Activity 24: [analog_24.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/analog_24.ino)
 
 ##### Time control
-- Activity 25: [time_25.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/time_25.ino) [**TODO**]
+- Activity 25: [time_25.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/time_25.ino)
 
 ### License (MIT)
 
