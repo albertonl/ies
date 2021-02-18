@@ -49,6 +49,7 @@ Author: Alberto Navalón Lillo (<alberto@albertonl.com>), 2020-2021
 
 ##### Time control
 - Activity 25: [time_25.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/time_25.ino)
+- Activity 26: [time_26.ino](https://github.com/albertonl/ies/blob/master/4ESO/TEC/Arduino/time_26.ino) (buggy)
 
 ### License (MIT)
 
