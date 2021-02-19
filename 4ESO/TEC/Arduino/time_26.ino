@@ -1,17 +1,29 @@
+/*
+ * time_26.ino
+ * A buzzer will be turned on for one second every time a push
+ * switch remains unpressed for more than 10 seconds.
+ * 
+ * This code is distributed under the MIT License.
+ * For more information, please refer to:
+ * https://albertonl.github.io/ies/4ESO/TEC/Arduino
+ * 
+ * Modified 17 Feb 2021
+ * Alberto Navalón Lillo
+ * 
+ * Modified 19 Feb 2021
+ * Alberto Navalón Lillo (fix time reset bug)
+ */
+
 // Constant values relative to pin numbers
 const int buzzer = 3;
 const int pushSwitch = 8;
 
 // Alternative to std::pair in C++
-unsigned long first;  // this will be the starting time
-unsigned long second; // and this will be the current time
-
-/*
 struct pair {
   unsigned long first;  // this will be starting time
   unsigned long second; // and this will be the current time
-} ms;         // we save it as a variable
-*/
+} ms;                   // we save it as a variable
+
 
 /*
  * Note: millis() returns an unsigned long value. Thus, our pair
@@ -21,7 +33,7 @@ struct pair {
 
 void setup () {
   // Initialization of I/O devices:
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(buzzer, OUTPUT);
   pinMode(pushSwitch, INPUT_PULLUP);
 
   /*
@@ -30,19 +42,19 @@ void setup () {
    */
 
   // set starting time before going into the loop() function.
-  first = millis();
+  ms.first = millis();
 }
 
 void loop () {
-  second = millis();
+  ms.second = millis();
   int input = digitalRead(pushSwitch);
 
   if (input == LOW) {
     // button is pressed, reset time count
-    first = millis();
-    second = 0;
+    ms.first = millis();
+    ms.second = 0;
   }
-  else if (second - first > 10000) {
+  else if (ms.second - ms.first > 10000) {
     // button is not pressed, check if more than 10 seconds have passed
     // since the last time the button was pressed. (10,000ms = 10s)
 
@@ -50,6 +62,9 @@ void loop () {
     digitalWrite(buzzer, HIGH);
     delay(1000);
     digitalWrite(buzzer, LOW);
+
+    // once the buzzer has stopped, reset time count
+    ms.first = millis();
+    ms.second = 0;
   }
 }
-
